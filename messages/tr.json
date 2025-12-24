@@ -1,0 +1,14 @@
+{
+  "HomePage": {
+    "title": "Ana Sayfa",
+    "welcome": "Hoş geldiniz!",
+    "description": "Başlangıç noktası veya daha fazla talimat mı arıyorsunuz?",
+    "templates": "Şablonlar",
+    "learning": "Öğrenme",
+    "center": "merkezine gidin.",
+    "deployNow": "Şimdi Yayınla",
+    "documentation": "Dokümantasyon",
+    "changeLanguage": "Dili Değiştir",
+    "currentLanguage": "Mevcut Dil: Türkçe"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "HomePage": {
+    "title": "Page d'accueil",
+    "welcome": "Bienvenue!",
+    "description": "Recherchez-vous un point de départ ou plus d'instructions?",
+    "templates": "Templates",
+    "learning": "Apprendre",
+    "center": "centre.",
+    "deployNow": "Déployer maintenant",
+    "documentation": "Documentation",
+    "changeLanguage": "Changer de langue",
+    "currentLanguage": "Langue actuelle: Français"
+  }
+}
